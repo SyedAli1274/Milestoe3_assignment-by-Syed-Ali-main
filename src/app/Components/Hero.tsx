@@ -14,7 +14,7 @@ const HeroSlider: React.FC<HeroSliderProps> = ({ latestPostsRef }) => {
       description: 'How Technology is Changing',
       image: '/homeres/himg.png',
       date: 'December 26, 2024',
-      author: 'Abdul Majid',
+      author: 'Syed Ali',
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ const HeroSlider: React.FC<HeroSliderProps> = ({ latestPostsRef }) => {
       description: 'Adapting to the Future of Work',
       image: '/homeres/himg2.png',
       date: 'December 25, 2024',
-      author: 'Abdul Majid',
+      author: 'Syed Ali',
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const HeroSlider: React.FC<HeroSliderProps> = ({ latestPostsRef }) => {
       description: 'Scalable and Efficient Solutions',
       image: '/homeres/himg3.png',
       date: 'December 28, 2024',
-      author: 'Abdul Majid',
+      author: 'Syed Ali',
     },
   ];
 
